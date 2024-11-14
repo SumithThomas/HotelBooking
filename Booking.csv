@@ -1,0 +1,4 @@
+booking_id,guest_id,room_id,guest_status,payment_status,booking_date,checkin_date,checkout_date,num_adults,num_children,booking_amount,balance_amount,reporting_date
+BK001,001,011,confirmed,pending,01/04/2021,15/05/2021,17/05/2021,2,0,140,140,14/11/2024
+BK002,002,111,confirmed,deposit,04/04/2021,16/05/2021,19/05/2021,1,0,180,100,14/11/2024
+BK003,003,012,checkin,fullypaid,15/05/2021,15/05/2021,15/05/2021,2,1,75,0,14/11/2024
